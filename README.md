@@ -1,52 +1,33 @@
 # Hi, I'm Ajayi Oluwatimilehin Benjamin 👋
 
-## Data Analyst
+## 📊 Data Analyst
 
-I am an entry-level Data Analyst passionate about turning raw data into meaningful insights. I enjoy solving business problems using data and continuously improving my analytical skills through real-world projects.
+I'm an entry-level Data Analyst with a passion for transforming data into meaningful insights. I enjoy solving business problems through data analysis and continuously improving my skills by working on real-world projects.
 
-### Skills
+### 🛠️ Technical Skills
 
 - Microsoft Excel
 - SQL
 - Power BI
-- Python
+- Python (Pandas)
 - Google Sheets
 - Data Cleaning
 - Data Visualization
 - Dashboard Development
 - Exploratory Data Analysis (EDA)
 
-### Featured Projects
+### 📂 Featured Projects
 
-📊 Sales Performance Dashboard
+- 📈 Sales Performance Dashboard
+- 👥 HR Analytics Dashboard
+- 🎬 Movie Industry Analysis
+- 📊 Customer Churn Analysis
+- 📉 Financial Dashboard
 
-📈 HR Analytics Dashboard
+### 📫 Connect With Me
 
-🎬 Movie Industry Analysis
+- 📧 Email: benaj619@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/benaj619
+- 🌐 Portfolio: https://benaj619.my.canva.site
 
-📉 Customer Churn Analysis
-
-📋 Excel Business Dashboard
-
-### Connect with Me
-
-📧 Email: benaj619@gmail.com
-
-🌐 Portfolio: benaj619.my.canva.site
-
-💼 LinkedIn: https://linkedin.com/in/benaj619
-
-<!--
-**benaj619/benaj619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Without data, you're just another person with an opinion."
